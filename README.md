@@ -7,4 +7,4 @@ Geese Hunter is a basic self developed iOS game compatible with all iPhones afte
 
 As a Geese hunter, in how many seconds can you hunt 30 Geese?
 
-A demo of the application has been provided - download demo.mov file
+A demo of this application has been provided - download demo.mov file
