@@ -10,4 +10,4 @@ Compatible with all iPhones after iPhone 11, inclusive, and compatible with all 
 
 Compatible with iOS 13 and above.
 
-A demo of the app has been provided - download demo.mov file
+A demo of the app has been provided - download the demo.mov file
