@@ -12,4 +12,4 @@ Compatible with iOS 13 and above.
 
 NOTE: Documentation has not been provided for GeeseHunter.swift
 
-###A demo of the app has been provided - download the demo.mov file
+###### A demo of the app has been provided - download the demo.mov file
