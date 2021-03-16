@@ -10,4 +10,6 @@ Compatible with all iPhones after iPhone 11, inclusive, and compatible with all 
 
 Compatible with iOS 13 and above.
 
+NOTE: Documentation has not been provided for GeeseHunter.swift
+
 A demo of the app has been provided - download the demo.mov file
