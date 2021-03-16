@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/AbhinavGupta2002/AstonHack2021/main/LICENSE)
 
-## A demo of the app has been provided - download the demo.mov file.
+## A demo of the app has been provided - download the demo.mov file
 
 As a Geese hunter, in how many seconds can you hunt 30 Geese?
 
