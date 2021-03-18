@@ -8,7 +8,7 @@ As a Geese hunter, how fast can you hunt 30 Geese?
 
 Geese Hunter is a basic self developed iOS game that is fun to play with family and friends.
 
-Compatible with all iPhones after iPhone X, inclusive, and compatible with all iPads.
+Compatible with all iPhones after iPhone 11, inclusive, and compatible with all iPads.
 
 Compatible with iOS 13 and above.
 
