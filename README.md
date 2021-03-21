@@ -13,3 +13,5 @@ Compatible with all iPhones after iPhone 11, inclusive, and compatible with all 
 Compatible with iOS 13 and above.
 
 NOTE: Documentation has not been provided for GeeseHunter.swift
+
+This project is under the MIT License.
